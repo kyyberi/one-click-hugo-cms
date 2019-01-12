@@ -12,29 +12,29 @@ main:
 pricing:
   heading: Paketit
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Tulen paikan päälle tai online tapahtumaanne kunhan tiedätte kumpi on kyseessä. Voit valita kolmesta paketista sopivan.
+    Tarvittaessa pakettia voidaan muokata. Kaikkiin hintoihin lisätään alv 24%. 
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Inspiroiva yrityksenne tarpeisiin sovitettu osallistava esitys API -taloudesta omissa tiloissanne.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
+        - Maks 100 osallistujaa.
+        - Matkakulut valtion matkustusohjesäännön mukaisesti.
+        - Esityksen kesto maks 60 min.
+        - Tallennus sallittu organisaation sisäiseen käyttöön 200€ lisämaksusta
       plan: Yrityspaketti
       price: '2000'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: 'Helppo keino osallistaa haluttu verkosto API -talouden ympärille.'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
+        - Esityksen kesto maks 60 min.
+        - Järjestäjä tarjoaa webinaari alustan.
+        - Tallennus rajatonta uudelleenkäyttöä varten sallittu 300€ lisämaksusta.
       plan: Webinaari
       price: '500'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Matkustus ja hotelli järjestäjän järjestämänä
+        - Esityksen kesto maks 60 min
+        - Materiaalit osallistujien käyttöön
       plan: Keynote
       price: '3000'
 intro:
