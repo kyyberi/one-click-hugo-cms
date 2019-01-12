@@ -30,7 +30,7 @@ pricing:
         - Tallennus rajatonta uudelleenkäyttöä varten sallittu 300€ lisämaksusta.
       plan: Webinaari
       price: '500'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Karismaattinen, selkeäsanainen ja aivonystyröitä kutitteleva API -talouden keynote. 
       items:
         - Matkustus ja hotelli järjestäjän järjestämänä
         - Esityksen kesto maks 60 min
