@@ -1,15 +1,15 @@
 ---
-title: Our Coffee
+title: Energinen puhuja tapahtumaasi
 type: products
 image: /img/products-jumbotron.jpg
-heading: What we offer
+heading: Kokenut puhuja
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 pricing:
-  heading: Monthly subscriptions
+  heading: Paketit
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
@@ -20,21 +20,21 @@ pricing:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: Yrityspaketti
       price: '2000'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
+      plan: Webinaari
       price: '500'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: Keynote
       price: '3000'
 intro:
   blurbs:
