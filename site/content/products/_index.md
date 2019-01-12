@@ -22,7 +22,7 @@ pricing:
         - Esityksen kesto maks 60 min.
         - Tallennus sallittu organisaation sisäiseen käyttöön 200€ lisämaksusta
       plan: Yrityspaketti
-      price: '2000'
+      price: '2000€'
     - description: 'Helppo keino osallistaa haluttu verkosto API -talouden ympärille.'
       items:
         - Esityksen kesto maks 60 min.
