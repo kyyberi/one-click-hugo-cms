@@ -22,21 +22,21 @@ pricing:
         - Esityksen kesto maks 60 min.
         - Tallennus sallittu organisaation sisäiseen käyttöön 200€ lisämaksusta
       plan: Yrityspaketti
-      price: '2000€'
+      price: '2000 €'
     - description: 'Helppo keino osallistaa haluttu verkosto API -talouden ympärille.'
       items:
         - Esityksen kesto maks 60 min.
         - Järjestäjä tarjoaa webinaari alustan.
         - Tallennus rajatonta uudelleenkäyttöä varten sallittu 300€ lisämaksusta.
       plan: Webinaari
-      price: '500'
+      price: '500 €'
     - description: Karismaattinen, selkeäsanainen ja aivonystyröitä kutitteleva API -talouden keynote. 
       items:
         - Matkustus ja hotelli järjestäjän järjestämänä
         - Esityksen kesto maks 60 min
         - Materiaalit osallistujien käyttöön
       plan: Keynote
-      price: '3000'
+      price: '3000 €'
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
