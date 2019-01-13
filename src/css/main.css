@@ -85,3 +85,16 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+h1.lh-title{
+  padding:20px;
+  color:#ff2700;
+  background-color: transparent;
+
+}
+
+p.lh-title {
+  padding:20px;
+  background-color: transparent;
+  color:#ff2700;
+  margin-top:30px;
+}

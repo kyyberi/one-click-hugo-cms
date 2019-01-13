@@ -3,18 +3,30 @@ title: "APItalisti Jarkko Moilanen"
 subtitle: API- ja alustatalouden luovan tuhon heinäsirkka
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Mikä APItalisti?
+    text: "APItalisti on yrityksen API-talouden rohkea asiantuntija ja rajapintoihin perustuvan liiketoimintastrategian mestari. APItalistin pitää omata myös hieman CMO:ta eli ymmärtää markkinointia ja tuotteiden jalkautusta. APItalisti ymmärtää APIen ympärille rakentuvan arvoketjun, siinä tarvittavien sovelluskehittäjien ja kehittäjäkokemuksen (DX) merkityksen eli hanskaa myös Business-to-Developer (B2D) markkinoinnin."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+    heading: "API -taloutta selkokielisesti"
+    text: "API -taloudesta puhutaan liikaa tekniikkaan keskittyen, vaikka hyödyt ja lähtökohdat tulisi olla liiketoiminnalliset. Olen tehnyt alalla tutkimusta useita vuosia, kirjoittanut kirjoja ja auttanut useita yrityksiä ymmärtämään ja hyödyntämään rajapintoja liiketoiminnassa.
 
+    Taustani yhteiskuntatieteilijänä ja ekosysteemien tutkijana auttaa ymmärtämään aihepiiriä eri näkökulmista. Yhdistän tutkimustietoa käytäntöön toimimalla itse API - ja alustataloudessa. Nykyään vastaan Platform of Trust -alustan kehittäjäkokemuksesta."
+
+blurbs:
+  - image: /img/book2.png
+    text: >
+      API-talous 101 -kirja käsittelee API-talouden peruskysymyksiä, joihin kirjoittajat ovat omassa arjessaan asiakastyössä törmänneet. Emme piiloudu teknisen jargonin taakse, vaan lähestymme asiaa käytännönläheisesti ja "humaanilla" otteella. API-talous 101 -kirja on kirjoitettu kaikille ohjelmointirajapintoihin perustuvasta liiketoiminnasta kiinnostuneille.
+  - image: /img/book1.png
+    text: >
+      Build for Developers -kirja (tulossa 2019) käsittelee kehittäjäkokemuksen ja kehittäjäkeskeisen tuotekehityksen merkitystä menestystarinoiden kuten Stripe, Pusher, Twilio ja DocuSign luomisessa. Kehittäjäkeskeinen lähestyminen luo edellytykset ottaa oman toimialan johtotähden paikka markkinoilla. Kirja sukeltaa syvemmälle API -talous 101 -kirjassa esiteltyyn kehittäjäkokemukseen ja sen merkitykseen menestyksessä.
+  - image: /img/illustrations-tutorials.svg
+    text: >
+      Love a great cup of coffee, but never knew how to make one? Bought a
+      fancy new Chemex but have no clue how to use it?
+  - image: /img/illustrations-meeting-space.svg
+    text: >
+      We believe that good coffee has the power to bring people together.
+
+values:
+    heading: API -talous
+    text: API-talous tarkoittaa, että yritys hyödyntää toisilla organisaatioilla olevia resursseja (esim. data tai toiminto) tehokkaasti ja nopeasti tuottaakseen lisäarvoa omille asiakkailleen. Hyödyntämisessä rakennuspalikoita ovat omat ja toisten tarjoamat avoimet rajapinnat (maksulliset tai ilmaiset) sekä kehittäjäyhteisöt, joita hyödyntämällä yritys pystyy vastaamaan nopeammin muuttuviin ja ennakoimattomiin asiakastarpeisiin. API-taloudelle luonteenomaista on kilpailu sovelluskehittäjien suosiosta, ja ensisijaisina asiakkaina pidetään sovelluskehittäjiä. Toisin sanoen tarjotaan palveluita yrityksiltä kehittäjille (Business-to-Developers, B2D).
+---
