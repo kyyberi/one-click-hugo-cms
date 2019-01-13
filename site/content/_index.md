@@ -1,6 +1,6 @@
 ---
-title: "APItalisti Jarkko Moilanen"
-subtitle: API- ja alustatalouden luovan tuhon heinäsirkka
+title: ""
+subtitle: 
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Mikä APItalisti?

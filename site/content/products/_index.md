@@ -1,5 +1,5 @@
 ---
-title: Energinen puhuja tapahtumaasi
+title: 
 type: products
 image: /img/products-jumbotron.jpg
 heading: Kokenut puhuja
