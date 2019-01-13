@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 type: products
 image: /img/products-jumbotron.jpg
 heading: Kokenut puhuja
@@ -56,12 +56,9 @@ intro:
       text: >
         We believe that good coffee has the power to bring people together.
 
-  heading: What we offer
+  heading: Kokenut ja inspiroiva esiintyjä
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Onko sinulla yrityksen sisäinen tilaisuus tai webinaari johon tarvitset API-talouden asiantuntijaa? Kenties konferenssi, joka kaipaa tuoretta tuulahdusta rajapinnoista ilman integraatioita tai IT -jargonia? Kierrän ahkerasti myös Hackathon tapahtumissa! Olen kokenut kansainvälisillä vesillä koulittu puhuja. Olen kokenut lavalla kaiken. Pienet mokat, 300 toimitusjohtajaa tai DevOps ammattilaista yleisönä ole enää uutta.  
 
 
 testimonials:
