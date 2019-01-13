@@ -1,10 +1,9 @@
 ---
-title: A beginners’ guide to brewing with Chemex FOO
-date: 2018-01-11T15:04:10.000Z
+title: Keikkakalenteri 2019
+date: 2019-01-13T15:04:10.000Z
+type: post
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Sivulta löytyy APItalistin vuoden 2019 keikat Suomessa ja muualla. Teen muutaman keikan kuussa, jotta jää aikaa myös kirjan Build for Developers kirjoittamiselle.
 image: /img/blog-chemex.jpg
 ---
 
