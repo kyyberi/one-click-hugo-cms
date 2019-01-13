@@ -40,25 +40,23 @@ pricing:
       price: '3000 €'
 intro:
   blurbs:
+
     - image: /img/illustrations-coffee.svg
       text: >
-        Check our post or contact us directly for current
-        availability.
+        X-Road Community Event 2018 12.9.2018, Tallinna.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level.
+        Alma Talent API-hallinta 23. - 24.5.2018, Helsinki
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it?
+       DevOps 2017 27.-28.4.2017, Helsinki
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
+        Nebula Advantage 10.10.2017, Helsinki
 
   heading: Kokenut ja inspiroiva esiintyjä
   description: >
-    Onko sinulla yrityksen sisäinen tilaisuus tai webinaari johon tarvitset API-talouden asiantuntijaa? Kenties konferenssi, joka kaipaa tuoretta tuulahdusta rajapinnoista ilman integraatioita tai IT -jargonia? Kierrän ahkerasti myös Hackathon tapahtumissa! Olen kokenut kansainvälisillä vesillä koulittu puhuja. Olen kokenut lavalla kaiken. Pienet mokat, 300 toimitusjohtajaa tai DevOps ammattilaista yleisönä ole enää uutta.  
+    Onko sinulla yrityksen sisäinen tilaisuus tai webinaari johon tarvitset API-talouden asiantuntijaa? Kenties konferenssi, joka kaipaa tuoretta tuulahdusta rajapinnoista ilman integraatioita tai IT -jargonia? Kierrän ahkerasti myös Hackathon tapahtumissa! Olen kokenut kansainvälisillä vesillä koulittu puhuja. Olen kokenut lavalla kaiken. Pienet mokat, 300 toimitusjohtajaa tai DevOps ammattilaista yleisönä ole enää uutta. Alla muutamia esimerkkejä tilaisuuksista, joissa olen esiintynyt.
 
 
 testimonials:
