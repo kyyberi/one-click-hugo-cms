@@ -33,4 +33,4 @@ Mikäli yritys käyttää mikropalveluarkkitehtuuria, ovat APIt joka puolella ar
 
 On syytä mainita, että mikropalveluarkkitehtuurissa kaikki APIt eivät monestikaan ole REST rajapintoja (vaikka voisi olla). Sisäiset rajapinnat ovat tehokkuusvaatimuksiensa vuoksi ehkä toteutettu muilla tekniikoilla kuten esimerkiksi gRPC teknologialla. Esimerkiksi Google käyttää gRPC rajapintoja paljon ja heidän API -tyylioppaansa sisältää ohjeistuksen myös niiden tuottamiseen. Näin ollen API -tyyliopas ei ole vain REST rajapintojen standardointiin, vaikka niin joskus ajatellaankin.
 
-Sen sijaan hyvin yleisesti asiakkaan suuntaan paljastetut rajapinnat usein ovat nykyään REST tai RESTful. Riippumatta siitä, onko kyseessä sisäiset tai avoimet rajapinnat, on API -tyylioppaalla standardoiva vaikutus organisaation sisällä. APIen lajityyppeihin voit tutustua aiemman artikkelin avulla. 
+Sen sijaan hyvin yleisesti asiakkaan suuntaan paljastetut rajapinnat usein ovat nykyään REST tai RESTful. Riippumatta siitä, onko kyseessä sisäiset tai avoimet rajapinnat, on API -tyylioppaalla standardoiva vaikutus organisaation sisällä. APIen lajityyppeihin voit tutustua aiemman artikkelin avulla.
