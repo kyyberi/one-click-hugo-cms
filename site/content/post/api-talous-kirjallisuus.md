@@ -1,9 +1,10 @@
 ---
 title: 'Kuratoitu lista API -talouteen liittyviä lähteitä'
 date: 2019-01-14T15:04:10.000Z
+type: post
 description: >-
   Kirjoja kirjoittaessa etsin koko ajan uutta tietoa API -taloudesta ja sen liepeillä olevista ilmiöistä. Toki lähteet tulee myös kirjoihin mukaan, mutta näin tekemällä helpompi jakaa muiden käyttöön.
-image: /img/blog-chemex.jpg
+image: /img/book1.png
 ---
 
 ## Common
@@ -50,3 +51,7 @@ API Developer eXperience is hardly touched item in academic research. Thus I’v
 18. Developer Experience: Concept and Definition (2012) https://ieeexplore.ieee.org/document/6225984/
 19. What Makes APIs Hard to Learn? Answers from Developers (2009) https://ieeexplore.ieee.org/document/5287006/
 20. What Programmers Really Want: Results of a Needs Assessment for SDK Documentation (2002) https://dl.acm.org/citation.cfm?id=584976&dl=ACM&coll=DL
+
+## Business to Developer (B2D)
+
+TBD

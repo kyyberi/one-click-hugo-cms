@@ -13,6 +13,7 @@ Englanninkielessä esiintyy tämän asian yhteydessä termejä kuten “API Styl
 Tyyliopas ei ota kantaa käytettyyn ohjelmointikieleen, vaan antaa reunaehtoja muotoilulle ja toteutukselle vähän samaan tapaan kuin graafiset ohjeistot yrityksen logon käytöstä. Yhtä lailla yleisesti käytetty Open API spesifikaatio luo kehikon API:n kuvaukselle, mutta jättää yksityiskohdat kuten esimerkiksi  virheenkäsittely ja parametrien nimeämiskäytännöt soveltajan vastuulle. Tunnetusti paholainen asustaa juuri yksityiskohdissa. Lyhyesti sanottuna, API -tyyliopas on keino standardoida APIen suunnittelua, kehittämistä ja käyttäytymistä.(3)
 
 API -tyylioppaita ei juuri ole akateemisesti tutkittu. Vuodelta 2017 löytyy tutkimus(2), jossa on analysoitu 32 API -tyyliopasta. Analyysissä löytyi 27 kategoriaa asioista, joita oppaat sisältävät. Viisi kategoriaa nousi esiin suurimmassa osassa analysoituja API -tyylioppaita:
+
 - Versiointi (Versioning)
 - Nimeäminen (Naming)
 - Vastausformaatti/rakenne (Response Structure/Format)
@@ -23,7 +24,9 @@ Kannattaa tutustua olemassa oleviin oppaisiin, mutta ei välttämättä kopioida
 
 ## Arkkitehtuurin näkökulmasta
 
-REST ei ole standardi vaan Roy Fieldingin alkuunlaittama arkkitehtuurityyli (1). Toisin sanoen vapausasteita tehdä eri asiat on niin monta kuin API kehittäjiä. Tästä syystä API -tyylioppaalla pidetään huoli arkkitehtuurin APIen yhtenäisyydestä. Liiketoimintasuunnitelman ja -tavoitteiden tulee ohjata arkkitehtuuria
+REST ei ole standardi vaan Roy Fieldingin alkuunlaittama arkkitehtuurityyli (1). Toisin sanoen vapausasteita tehdä eri asiat on niin monta kuin API kehittäjiä. Tästä syystä API -tyylioppaalla pidetään huoli arkkitehtuurin APIen yhtenäisyydestä.
+
+>Liiketoimintasuunnitelman ja -tavoitteiden tulee ohjata arkkitehtuuria
 
 Arkkitehtuuriratkaisut ohjaavat sitä, millaista koodia ja palveluja loppujen lopuksi tehdään. API -tyylioppaan avulla ohjataan käytännössä myös arkkitehtuurin toteutusta. Mikäli tyyliopas määrittää epäsuorasti että yrityksessä on vain datarajapintoja, on vaikea tehdä liiketoimintasuunnitelmia toiminnallisten ja tapahtumapohjaisten rajapintojen varaan.
 
